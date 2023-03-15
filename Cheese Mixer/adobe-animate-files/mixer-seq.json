@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"f_mixer_03_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00001.png":
+{
+	"frame": {"x":245,"y":0,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00002.png":
+{
+	"frame": {"x":490,"y":0,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00003.png":
+{
+	"frame": {"x":735,"y":0,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00004.png":
+{
+	"frame": {"x":0,"y":278,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00005.png":
+{
+	"frame": {"x":245,"y":278,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00006.png":
+{
+	"frame": {"x":490,"y":278,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00007.png":
+{
+	"frame": {"x":735,"y":278,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00008.png":
+{
+	"frame": {"x":0,"y":556,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+},
+"f_mixer_03_00009.png":
+{
+	"frame": {"x":0,"y":556,"w":245,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":278},
+	"sourceSize": {"w":245,"h":278}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.0.405",
+	"image": "mixer-seq.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

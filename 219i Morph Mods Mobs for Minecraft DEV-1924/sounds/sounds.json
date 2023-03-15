@@ -1,0 +1,27 @@
+{
+    "fv5s_list": {
+        "Favorites": [],
+        "Sounds": [
+            {
+                "new": "true",
+                "fv5sd4": "Click",
+                "fv5sf2": "Sounds/click.mp3"
+            },
+            {
+                "new": "true",
+                "fv5sd4": "Crackling",
+                "fv5sf2": "Sounds/crackling.mp3"
+            },
+            {
+                "new": "true",
+                "fv5sd4": "Click on the button",
+                "fv5sf2": "Sounds/click_for_buttons.mp3"
+            },
+            {
+                "new": "true",
+                "fv5sd4": "Background Music",
+                "fv5sf2": "Sounds/background.mp3"
+            }
+        ]
+    }
+}
